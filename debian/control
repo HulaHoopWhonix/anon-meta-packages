@@ -119,7 +119,7 @@ Architecture: all
 Pre-Depends: whonix-legacy
 Depends: xchat-improved-privacy, anon-mixmaster, anon-gpg-tweaks, anon-torchat,
  anon-ws-disable-stacked-tor, youtube-dl,
- thunderbird, enigmail, xul-ext-torbirdy, pwgen,
+ thunderbird, enigmail, xul-ext-torbirdy, pwgen, coyim,
  python-msgpack, bindp, codecrypt, gnupg2, gnupg-agent, dirmngr,
  ${misc:Depends}
 Suggests: anon-shared-desktop,
